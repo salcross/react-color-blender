@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-blender/static/css/main.c94de12b.css",
+    "main.js": "/react-color-blender/static/js/main.8323f3fd.js",
+    "index.html": "/react-color-blender/index.html",
+    "main.c94de12b.css.map": "/react-color-blender/static/css/main.c94de12b.css.map",
+    "main.8323f3fd.js.map": "/react-color-blender/static/js/main.8323f3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94de12b.css",
+    "static/js/main.8323f3fd.js"
+  ]
+}
